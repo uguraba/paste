@@ -1,6 +1,6 @@
 // represents the haste-application
 var haste = function() {
-	this.appName = "Hastebin Plus";
+	this.appName = "İbrahim Uğur ABA - Paste";
 	this.$textarea = $('textarea');
 	this.$box = $('#code');
 	this.$code = $('#code code');
